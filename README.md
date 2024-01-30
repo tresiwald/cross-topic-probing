@@ -13,7 +13,16 @@ Additionally, we assess larger LMs and underscore the relevance of our analysis 
 Overall, diverse pre-training objectives, architectural regularization, or data deduplication contribute to more robust LMs and diminish generalization gaps. 
 Our research contributes to a deeper understanding and comparison of language models across different generalization scenarios.
 
-> This repository contains experimental software and has been published to provide additional background details on the respective publication.
+Contact person: Andreas Waldis, andreas.waldis@live.com
+
+https://www.ukp.tu-darmstadt.de/
+
+https://www.tu-darmstadt.de/
+
+
+Don't hesitate to e-mail us or report an issue if something is broken (and it shouldn't be) or if you have further questions.
+
+> This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
 ## Project structure
 **(change this as needed!)**
